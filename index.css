@@ -784,7 +784,7 @@ footer .social-icons img:hover {
     }
     .heading-intro{
         width: 50vh;
-        margin: 0vw 10vw;
+        margin: 0vw 5vw;
     }
     .heading-intro h2{
         font-size: 1vh;
@@ -800,7 +800,7 @@ footer .social-icons img:hover {
     }
     .product-info{
         width: 40vh;
-        margin: 0vw 10vw;
+        margin: 0vw 5vw;
     }
     .product-info p{
     font-size: 3vh;
